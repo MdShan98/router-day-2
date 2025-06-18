@@ -1,0 +1,8 @@
+.main-container{
+    display: flex;
+    gap: 10px;
+}
+nav a.active{
+    text-decoration: underline;
+    background-color: aqua;
+}
